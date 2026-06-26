@@ -41,6 +41,7 @@ opportunities in the ₹7-10 LPA range.
 
 ### Connect With Me
 - Portfolio: https://d1y331nvg2x1x9.cloudfront.net
+- Personal Portfolio: https://mithun2911.github.io/Portfolio/
 - LinkedIn: linkedin.com/in/mithundev-mr
 - Email: mithundev.work@gmail.com
 - Location: Chennai, India
